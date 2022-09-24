@@ -1,2 +1,2 @@
 # laboratornaya3
-![alt text](http://url/to/intro.jpg)
+![alt text](https://github.com/Irina567/laboratornaya3/intro.jpg)
